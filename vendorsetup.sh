@@ -11,7 +11,7 @@ rm -rf hardware/mediatek && git clone https://github.com/oplus-ossi-development/
 # oneplus parts
 git clone https://github.com/oplus-ossi-development/android_packages_apps_OneplusParts packages/apps/OneplusParts
 # kernel dt
-git clone --depth=1 https://github.com/oplus-ossi-development/android_kernel_oplus_mt6893 kernel/oplus/mt6893
+git clone --depth=1 https://github.com/n4bi10p/android_kernel_oplus_mt6893 kernel/oplus/mt6893
 # hardware mediatek wlan
 git clone https://github.com/oplus-ossi-development/android_hardware_mediatek_wlan hardware/mediatek/wlan
 # vendor oplus cupida
@@ -19,7 +19,7 @@ git clone https://github.com/oplus-ossi-development/proprietary_vendor_oplus_cup
 # sepolicy vndr 
 git clone https://github.com/oplus-ossi-development/android_device_mediatek_sepolicy_vndr device/mediatek/sepolicy_vndr
 # oplus hardware 
-rm -rf hardware/oplus && git clone https://github.com/LineageOS/android_hardware_oplus hardware/oplus
+rm -rf hardware/oplus && git clone https://github.com/n4bi10p/android_hardware_oplus hardware/oplus
 
 # Oplus camera
 CAM=device/oplus/camera/camera.mk
