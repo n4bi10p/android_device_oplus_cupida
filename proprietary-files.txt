@@ -1777,8 +1777,8 @@ vendor/firmware/novatek_ts_fw_tm.bin
 vendor/firmware/remoteproc_scp
 vendor/firmware/soc3_0_patch_wmmcu_1a_1_hdr.bin
 # Connectivity (Firmware) - from op5339l1
-vendor/firmware/soc3_0_ram_bt_1_1_hdr.bin
-vendor/firmware/soc3_0_ram_bt_1a_1_hdr.bin
+vendor/firmware/soc3_0_ram_bt_1_1_hdr.bin|889391a345313e7c3d660e2022808f4f1521658a
+vendor/firmware/soc3_0_ram_bt_1a_1_hdr.bin|0a2dda630b1063f8fd3ed0eee6d4d88bbe32d006
 vendor/firmware/soc3_0_ram_mcu_1_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_e1_hdr.bin
